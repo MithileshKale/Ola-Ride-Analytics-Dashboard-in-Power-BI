@@ -74,6 +74,11 @@ Instead of static reporting, this dashboard delivers **dynamic KPIs, trend analy
 
 ---
 
+##  PDF Export  
+[Download the full dashboard PDF](https://github.com/MithileshKale/Ola-Ride-Analytics-Dashboard-in-Power-BI/blob/main/Ola%20Dashboard.pdf)
+
+---
+
 ## 🎥 Dashboard Video Demo  
 [![Watch Demo Video](https://img.https://youtu.be/b_Clq66psb4/0.jpg)](https://youtu.be/b_Clq66psb4)
 
