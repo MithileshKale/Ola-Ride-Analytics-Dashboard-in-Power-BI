@@ -70,12 +70,12 @@ Instead of static reporting, this dashboard delivers **dynamic KPIs, trend analy
 ---
 
 ## 📊 Dashboard Preview  
-_Add screenshots of your dashboard here_
+<img width="1267" height="704" alt="Weather Forecast Dashboard" src="https://github.com/MithileshKale/Ola-Ride-Analytics-Dashboard-in-Power-BI/blob/main/Ola Dashboard Thumbnail.png" />
 
 ---
 
 ## 🎥 Dashboard Video Demo  
-_Add YouTube video link here_
+[![Watch Demo Video](https://img.https://youtu.be/b_Clq66psb4/0.jpg)](https://youtu.be/b_Clq66psb4)
 
 ---
 
